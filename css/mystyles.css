@@ -1,0 +1,107 @@
+.navbar {
+    font-size: 1.5rem;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #009999 !important;
+}
+
+#basic-addon2 {
+    background-color: #009999;
+    
+    
+}
+
+/* #navbarNavDropdown {
+    display: inline-block;
+     width: 500px; 
+} */
+
+/* .dropdown-menu {
+    position: static;
+    max-width: 50%;
+    left: auto;
+} */
+
+
+
+
+.navbar-nav {
+    position: absolute;
+    justify-content: end;
+    right: 0;
+    
+}
+
+
+.banner {
+    background-image: url("../../img/hero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+    
+.input-group {
+    width: 35%;    
+}
+
+.active {
+    border-bottom: 3px solid #009999;
+}
+
+#basic-addon2 {
+    background-color: #009999;
+}
+
+
+
+.photos {
+    margin: 1rem;
+}
+ 
+.heading {
+    color:#009999;
+}
+
+.pages {
+    color: #009999;
+    
+}
+.photoPageNumber {
+    background-color: rgb(229, 239, 240);
+    border: 1px solid rgb(123, 179, 184);
+    padding: 0 0.75rem;
+}
+
+.photos img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.navButtons {
+    margin: 0.5rem;
+}
+
+.btn-default {
+    background-color: #009999;
+}
+
+.footerLink {
+    text-decoration: none;
+    
+}
+
+.pageEnd {
+    background-color: rgba(209, 217, 219, 0.637);
+    
+}
+
+.about, .terms {
+    margin: 1rem;
+    padding: 2rem;
+}
+
+
+
